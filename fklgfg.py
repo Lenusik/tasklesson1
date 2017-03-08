@@ -1,3 +1,2 @@
 __author__ = 'Lenusik'
-dfgl;jkfh
-ldfkgjflkjh
+you're very bad listener!
